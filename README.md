@@ -7,4 +7,4 @@ The System will use GPDS and direwolf with Beacon confiferation to send System d
 The Diarewolf RX will be a RTL dongle withe a nis sharp Saw or Crystal filter as a frontend.
 The transmitter and resver can be configerd to be FM repeater as well.
 Here is a Block diagram of the BACAR Baloon telemetry system.
-![Alt text](wxsat_3.png?raw=true "Block diagram")<br>
+![Alt text](Bacar_telemetry_1.png?raw=true "Block diagram")<br>
