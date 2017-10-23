@@ -12,8 +12,8 @@ Link to RF Hat for raspberry pi http://www.giga.co.za/ocart/index.php?route=prod
 Image of RF transmitter hat 2M band (any frequensy from 1 to 500MHZ can be assembled for a band.<br>
 ![Alt text](RaspberrpiRTX1_1s.jpg?raw=true "RF HAT for Raspberry PI")<br>
 Baloon Satellite picure <br>
-![Alt text](20171015_175117.jp?raw=true "Baloon Satellite Picture")<br>
+![Alt text](20171015_175117.jpg?raw=true "Baloon Satellite Picture")<br>
 Baloon Satellite picure <br>
-![Alt text](20171015_175117.jp?raw=true "Baloon Satellite Picture")<br>
+![Alt text](20171021_100731.jpg?raw=true "Baloon Satellite Picture")<br>
  	
   
