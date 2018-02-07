@@ -1,7 +1,7 @@
 # Raspberry_Telemetry
 This code is working but has losts of place for improvements .(project started 14 Sep 2017)
 This project will have the files for a Cube Sat Telemetry system Using Raspberry Pi Transmitter Board.
-![Alt text](block?raw=true "Block diagram")<br>
+![Alt text](Balloon_comand_block_diagram.png?raw=true "Block diagram")<br>
 I will be using a External GPS and temprature giomerty meater to generate the Telemetry Data.
 The System will use GPDS and direwolf with Beacon confiferation to send System data.
 The Diarewolf RX will be a RTL dongle withe a nis sharp Saw or Crystal filter as a frontend.
