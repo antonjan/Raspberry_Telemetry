@@ -1,5 +1,5 @@
 # Raspberry_Telemetry
-This code is not jet compleet but work in progress.(project just started 14Sep/2017)
+This code is working but has losts of place for improvements .(project started 14 Sep 2017)
 This project will have the files for a Cube Sat Telemetry system Using Raspberry Pi Transmitter Board.
 
 I will be using a External GPS and temprature giomerty meater to generate the Telemetry Data.
